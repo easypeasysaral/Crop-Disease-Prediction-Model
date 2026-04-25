@@ -1,7 +1,6 @@
 # Ignore your specific folders/files
 data/
 myenv/
-Screenshots/
 Doc.pdf
 
 # Python cache

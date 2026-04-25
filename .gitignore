@@ -1,19 +1,22 @@
-doc.pdf
-dat
+# Ignore your specific folders/files
+data/
 myenv/
+Screenshots/
+Doc.pdf
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
+
+# Virtual envs
+venv/
 .env
-.venv
-*.egg-info/
-dist/
-build/
+.venv/
+
+# Models (important for ML)
+models/
+
+# Misc
 *.log
 .DS_Store
 node_modules/
-.idea/
-*.swp
-*.swo
